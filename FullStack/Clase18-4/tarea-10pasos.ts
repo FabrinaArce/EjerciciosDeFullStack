@@ -1,0 +1,13 @@
+console.log("b)Pasos para cocinar ravioles con salsa");
+console.log("Poner a hervir una olla con agua");
+console.log("Cortar cebolla, zanahoria y pimiento en cubitos");
+console.log("Poner al fuego una sartén");
+console.log("Agregar aceite a la sartén");
+console.log("Colocar los ingredientes en la misma");
+console.log("Condimentar las verduras");
+console.log("Agregar puré de tomate y agua");
+console.log("Una vez lista, apagar el fuego");
+console.log("Al hervir el agua de la olla cocinar 15 minutos los ravioles");
+console.log("Una vez listos, apagar el fuego y colar los ravioles");
+console.log("Integrar la salsa a los ravioles");
+console.log("Servir");
